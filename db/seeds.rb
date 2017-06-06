@@ -15,7 +15,7 @@ s7.queens.create!([
     bio: "Dardo began performing drag as Violet Chachki at the age of 19. The name 'Violet' refers to Jennifer Tilly's character in the film Bound, while 'Chachki' is a variant of the Yiddish word tchotchke. Dardo first performed at the bar LeBuzz in Marietta, Georgia. They used a fake ID to perform in local drag shows, eventually winning Miss New Faces at Friends on Ponce in Atlanta. Later, the drag queen and Drag Race Season 8 contestant Dax ExclamationPoint adopted Dardo as her drag daughter. Dardo was enrolled at SCAD-Atlanta for fashion design, but dropped out to focus on drag.",
     image: "http://imgur.com/a/x7wui",
     website: "http://www.violetchachki.net",
-    instagram: "https://www.instagram.com/violetchachki/",
+    instagram: "https://www.instagram.com/violetchachki",
     twitter: "https://twitter.com/VioletChachki"
   },
   {
@@ -24,7 +24,7 @@ s7.queens.create!([
     drag_name: "Ginger Minj",
     bio: "Long before she held court as a finalist on season 7 of 'RuPaul’s Drag Race,' Ginger reigned as The Comedy Queen of The South from her homebase in Orlando, Florida. The self-professed “nicest bitch you’ll ever meet” cites classic funny ladies Carol Burnett and Lucille Ball as her idols. “Anyone who can pile three wigs on their head, squeeze their body into a beaded and rhinestoned gown and serve humor alongside the glamour is my hero,” says Ginger. That’s why she coined the term “Glamour Toad” to describe her unique persona.",
     image: "http://imgur.com/a/x7wui",
-    website: "http://www.http://gingerminj.com/",
+    website: "http://www.http://gingerminj.com",
     instagram: "https://www.instagram.com/gingerminj",
     twitter: "https://twitter.com/TheGingerMinj"
   },
@@ -34,7 +34,7 @@ s7.queens.create!([
     drag_name: "Pearl Liaison",
     bio: "After moving to Chicago, Lent began performing in drag in 2012, alongside Kim Chi, using the stage name Pearl.[3] He has described Pearl's persona as a 'stepford wife robot bitch'. Lent initially only planned to use drag as a hobby, but quickly began booking gigs at increasing frequency. He later moved to Brooklyn, New York.",
     image: "http://imgur.com/a/x7wui",
-    website: "http://www.pearlliaison.com/",
+    website: "http://www.pearlliaison.com",
     instagram: "https://www.instagram.com/pearliaison",
     twitter: "https://twitter.com/pearliaison"
   },
@@ -54,7 +54,7 @@ s7.queens.create!([
     drag_name: "Katya Zamolodchikova",
     bio: "Yekaterina Petrovna Zamolodchikova, or Katya Zamolodchikova (Екатерина Петровна Замолодчикова), or simply Katya, is the stage name of Brian McCook. She was a contestant on the seventh season and All Stars 2 of RuPaul's Drag Race, where she was simply known as 'Katya'. She finished fifth in her initial run, eliminated on the episode: Episode 11, 'Hello, Kitty Girls!'', but was later voted 'Miss Congeniality' by fans in the reunited special. She returned for All Stars 2, where she and Detox ended up as runners-up to winner Alaska.",
     image: "http://imgur.com/a/x7wui",
-    website: "http://www.welovekatya.com/",
+    website: "http://www.welovekatya.com",
     instagram: "https://www.instagram.com/katya_zamo",
     twitter: "https://twitter.com/katya_zamo"
   },
@@ -64,7 +64,7 @@ s7.queens.create!([
     drag_name: "Trixie Mattel",
     bio: "Firkus went on to be a break-out star of season 7 despite placing only sixth, and went on to take more television roles, produce a web series with fellow season 7 alumnus and close friend Katya Zamolodchikova called UNHhhh, and perform on stage. Firkus also moved to Los Angeles. Trixie has performed her stand-up comedy show 'Ages 3 And Up' globally and has also gained popularity as a singer, with her folk/country album Two Birds having been released 2nd May 2017.",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://http://www.trixiemattel.com/",
+    website: "http://http://www.trixiemattel.com",
     instagram: "https://www.instagram.com/trixiemattel",
     twitter: "https://twitter.com/trixiemattel"
   },
@@ -84,7 +84,7 @@ s7.queens.create!([
     drag_name: "Max",
     bio: "Max Malanaphy , known simply as 'MAX' during her time on RuPaul's Drag Race, is a drag preformer from Hudson, Wisconsin, best known for being a contestant on Season 7 of RuPaul's Drag Race, coming in at 8th originally but then moved to 9th due to Trixie Mattel re-entering the competition. Max was born in Portsmouth, New Hampshire, and was 22 years old during Season 7.",
     image: "http://imgur.com/qLjIEMG",
-    website: "https://www.maxmalanaphy.com/",
+    website: "https://www.maxmalanaphy.com",
     instagram: "https://www.instagram.com/maxcollective",
     twitter: "https://twitter.com/maxcollective"
   },
@@ -147,7 +147,7 @@ s8.queens.create!({
     drag_name: "Bob the Drag Queen",
     bio: "Caldwell started doing drag after watching the first season of RuPaul's Drag Race. Since his first presentations, his character was focused on stand-up comedy routines, and he started lipsynching after a couple of months into his drag. His initial stage name was Kittin Withawhip, and he was featured in Leland Bobbé's Half Drag Series with this name. In 2013, Caldwell changed his stage name to Bob the Drag Queen.",
     image: "http://imgur.com/qLjIEMG",
-    website: "https://www.bobthedragqueen.com/",
+    website: "https://www.bobthedragqueen.com",
     instagram: "https://www.instagram.com/bobthedragqueen",
     twitter: "https://twitter.com/thatonequeen"
   },
@@ -167,7 +167,7 @@ s8.queens.create!({
     drag_name: "Naomi Smalls",
     bio: "Born Davis Heppenstall in Redlands, California, Naomi has had to travel to LA or Riverside to perform, due to the lack of a drag scene at home. She describes herself as 'bubbly but very chill', and treats everyone as she'd want to be treated. She has an enormous family of 11 brothers and sisters, so she learned early how to cope with teasing and shade-throwing! As a fashion-obsessed teenager who followed Thierry Mugler, Jean Paul Gaultier, and V Magazine, Naomi entered her first drag competition at 340 Nightclub. After several months of attempts she finally won the competition, gaining the confidence that she could go further with her drag",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.naomismalls.com/",
+    website: "http://www.naomismalls.com",
     instagram: "https://www.instagram.com/naomismalls",
     twitter: "https://twitter.com/naomismallsduh"
   },
@@ -177,7 +177,7 @@ s8.queens.create!({
     drag_name: "Chi Chi DeVayne",
     bio: "Chi Chi Kat DeVayne or simply Chi Chi DeVayne on the show, is the stage name of Zavion Davenport, a drag performer from Shreveport, Louisiana. She is one of 12 contestants to compete on the eighth season of RuPaul's Drag Race. She was the 99th queen to walk into the werkroom. Her drag mother was Kourtni DeVayne, who died in 2008. She was then adopted by Ladi Phat Kat, both of Shreveport. During the finale, she was made an official Dreamgirl by Jennifer Holliday. Her lipsync to 'And I Am Telling You I'm Not Going' recieved widespread acclaim from fans of the show.",
     image: "http://imgur.com/qLjIEMG",
-    website: "https://www.chichidevayne.com/",
+    website: "https://www.chichidevayne.com",
     instagram: "https://www.instagram.com/chichidevayneofficial",
     twitter: "https://twitter.com/chichidevayne"
   },
@@ -197,7 +197,7 @@ s8.queens.create!({
     drag_name: "Thorgy Thor",
     bio: "Thorgy Thor (pronounced as in 'th with an orgy') is the stage name of Shane Galligan, a drag performer from Brooklyn, New York. She is one of 12 contestants to compete on the eighth season of RuPaul's Drag Race. Thorgy is a self-taught performer and never had a drag mother to teach her the tricks of the trade. She says she has always had a clear vision of what she wanted Thorgy to be, and still performs numbers she created 10 years ago.",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.thorgy.com/",
+    website: "http://www.thorgy.com",
     instagram: "https://www.instagram.com/thorgythor",
     twitter: "https://twitter.com/ThorgyThor"
   },
@@ -207,7 +207,7 @@ s8.queens.create!({
     drag_name: "Robbie Turner",
     bio: "Robbie Turner is the stage name of Jeremy Baird, an American drag performer from Seattle, Washington. She is one of 12 contestants to compete on the eighth season of RuPaul's Drag Race. Noted for her razor-sharp wit, Robbie's style is described by RuPaul as 'classic sass,'' and by fellow contestants as 'smart.' She was affectionately referred to as 'Robbie Turnter' by Ru and the judges and became a sort of 'big sister' character to other queens during the season. Robbie has developed a devoted following.",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.thorgy.com/",
+    website: "http://www.thorgy.com",
     instagram: "https://www.instagram.com/therobbieturner",
     twitter: "https://twitter.com/TheRobbieTurner"
   },
@@ -216,7 +216,7 @@ s8.queens.create!({
     drag_name: "Acid Betty",
     bio: "Acid Betty is the stage name of Jamin Ruhren, a drag performer from Brooklyn, New York. She is one of 12 contestants to compete on the eighth season of RuPaul's Drag Race.",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.acidbetty.com/",
+    website: "http://www.acidbetty.com",
     instagram: "https://www.instagram.com/acidbetty",
     twitter: "https://twitter.com/acidbettyrocks"
   },
@@ -256,7 +256,7 @@ s8.queens.create!({
     drag_name: "Dax ExclamationPoint",
     bio: "Laila McQueen is the stage name of Tyler Devlin, a drag performer from Gloucester, Massachusetts. She is one of 12 contestants to compete on the eighth season of RuPaul's Drag Race.",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.lailamcqueen.bigcartel.com/",
+    website: "http://www.lailamcqueen.bigcartel.com",
     instagram: "https://www.instagram.com/misslailamcqueen",
     twitter: "https://twitter.com/lailamcqueen"
   },
@@ -269,7 +269,7 @@ s9.queens.create! ([
     drag_name: "Peppermint",
     bio: "37, New York, NY Sweet and sassy, Peppermint is the name on everybody’s lips in New York, where she can be found hosting and performing any given night of the week. Warm, funny and personable, Peppermint is guaranteed to charm the judges. But will fame in the Big Apple translate to the global stage of America’s Next Drag Superstar?",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.peppermintonline.com/",
+    website: "http://www.peppermintonline.com",
     instagram: "https://www.instagram.com/peppermint247",
     twitter: "https://twitter.com/peppermint247"
   },
@@ -309,7 +309,7 @@ s9.queens.create! ([
     drag_name: "Alexis Michelle",
     bio: "32, New York, NY New York City’s premiere Broadway queen, Alexis Michelle is known for her singing, acting, and hourglass figure. Alexis’ love for the stage began early in life, when she saw the original production of Into The Woods. She sees drag as a natural extension of her desire to perform, and warns her competitors to watch their backs when it comes to the acting challenges.",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.subwayfish.com/",
+    website: "http://www.subwayfish.com",
     instagram: "https://www.instagram.com/alexislives",
     twitter: "https://twitter.com/AlexisLives"
   },
@@ -339,7 +339,7 @@ s9.queens.create! ([
     drag_name: "Farrah Moan",
     bio: "22, Las Vegas, NV This queen comes with her own tagline - Farrah Moan: One look and your mind is blown! Inspired by old school Vegas showgirls, it’s no surprise Farrah Moan is all about rhinestones, feathers, and showing a lot of skin. Named after her seventies idol Farrah Fawcett, her gorgeous face has made this queen a hit on social media, where she has a significant following.",
     image: "http://imgur.com/qLjIEMG",
-    website: "https://www.farrahmoan.net/",
+    website: "https://www.farrahmoan.net",
     instagram: "https://www.instagram.com/farrahrized",
     twitter: "https://twitter.com/farrahrized"
   },
@@ -368,7 +368,7 @@ s9.queens.create! ([
     drag_name: "Eureka",
     bio: "25, Johnson City, TN Asked to describe her own drag persona, Southern belle Eureka sums it up as “over-the-top, loud... and big!” Despite competing in over 100 pageants, Eureka doesn’t want to be characterized solely as a “pageant girl,” and she’s come ready to show off her many considerable talents. But the pageant system has certainly given her one trait - a fierce competitive nature.",
     image: "http://imgur.com/qLjIEMG",
-    website: "http://www.eurekatheelephantqueen.com/",
+    website: "http://www.eurekatheelephantqueen.com",
     instagram: "https://www.instagram.com/eurekaohara",
     twitter: "https://twitter.com/eurekaohara"
   },
