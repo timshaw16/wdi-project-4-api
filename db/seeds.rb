@@ -349,7 +349,7 @@ s9.queens.create! ([
     last_name: "Diaz",
     drag_name: "Cynthia Lee Fontaine",
     bio: "35, Austin, TX She’s baaaaack!!!! This Miss Congeniality winner and her “cucu” made quite the impression during season 8, so it’s no surprise Mama Ru decided to give her an opportunity to return to the competition. Armed with tenacity and an infectious, lovable personality, Cynthia is determined to show everyone she went home way too early the first time. But will Miss Cucu prove worthy of her second chance?",
-    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/CynthiaLeeFontaineRound.png",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/CythinaLeeFontaineRound.png",
     website: "",
     instagram: "https://www.instagram.com/cynthialeefontaine",
     twitter: "https://twitter.com/lee_fontaine"
