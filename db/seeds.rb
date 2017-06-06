@@ -5,7 +5,7 @@ s7 = Season.create!(title: "Season 7", description: "The seventh season of RuPau
 
 s8 = Season.create!(title: "Season 8", description: "The eighth season of RuPaul's Drag Race began airing on March 7, 2016. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley, who shared judging responsibilities on an alternating basis. Twelve drag queens competed for the title of America's Next Drag Superstar.", image: "http://imgur.com/a/rslR1")
 
-s9 = Season.create!(title: "Season 9", description: "The ninth season of RuPaul's Drag Race began airing on March 24, 2017, on VH1. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley. Fourteen drag queens (including one returnee) will compete for the title of America's Next Drag Superstar. The prizes for the winner are a one-year supply of Anastasia Beverly Hills cosmetics and a cash prize of $100,000. The full list of contestants was revealed on February 2, 2017. This season saw the return of season eight contestant Cynthia Lee Fontaine, who finished the competition in 10th place.", image: "http://imgur.com/a/rslR1")
+s9 = Season.create!(title: "Season 9", description: "The ninth season of RuPauls Drag Race began airing on March 24, 2017, on VH1. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley. Fourteen drag queens (including one returnee) will compete for the title of America's Next Drag Superstar. The prizes for the winner are a one-year supply of Anastasia Beverly Hills cosmetics and a cash prize of $100,000. The full list of contestants was revealed on February 2, 2017. This season saw the return of season eight contestant Cynthia Lee Fontaine, who finished the competition in 10th place.", image: "http://imgur.com/a/rslR1")
 
 s7.queens.create!([
   {
@@ -140,7 +140,7 @@ s7.queens.create!([
   },
 ])
 
-s8.queens.create!({
+s8.queens.create!([
   {
     first_name: "Christopher",
     last_name: "Caldwell",
@@ -210,7 +210,7 @@ s8.queens.create!({
     website: "http://www.thorgy.com",
     instagram: "https://www.instagram.com/therobbieturner",
     twitter: "https://twitter.com/TheRobbieTurner"
-  },
+  }, {
     first_name: "Jamin",
     last_name: "Ruhren",
     drag_name: "Acid Betty",
@@ -219,8 +219,7 @@ s8.queens.create!({
     website: "http://www.acidbetty.com",
     instagram: "https://www.instagram.com/acidbetty",
     twitter: "https://twitter.com/acidbettyrocks"
-  },
-  },
+  }, {
     first_name: "Fabian",
     last_name: "Rodriguez",
     drag_name: "Naysha Lopez",
@@ -229,8 +228,7 @@ s8.queens.create!({
     website: "",
     instagram: "https://www.instagram.com/nayshalopez",
     twitter: "https://twitter.com/nayshalopez"
-  },
-  },
+  }, {
     first_name: "Carlos",
     last_name: "Diaz",
     drag_name: "Cynthia Lee Fontaine",
@@ -239,8 +237,7 @@ s8.queens.create!({
     website: "",
     instagram: "https://www.instagram.com/cynthialeefontaine",
     twitter: "https://twitter.com/lee_fontaine"
-  },
-  },
+  }, {
     first_name: "Dax",
     last_name: "Martin",
     drag_name: "Dax ExclamationPoint",
@@ -249,8 +246,7 @@ s8.queens.create!({
     website: "",
     instagram: "https://www.instagram.com/daxclamation",
     twitter: "https://twitter.com/daxclamation"
-  },
-  },
+  }, {
     first_name: "Tyler",
     last_name: "Devlin",
     drag_name: "Dax ExclamationPoint",
@@ -260,7 +256,7 @@ s8.queens.create!({
     instagram: "https://www.instagram.com/misslailamcqueen",
     twitter: "https://twitter.com/lailamcqueen"
   },
-})
+])
 
 s9.queens.create! ([
   {
@@ -312,8 +308,7 @@ s9.queens.create! ([
     website: "http://www.subwayfish.com",
     instagram: "https://www.instagram.com/alexislives",
     twitter: "https://twitter.com/AlexisLives"
-  },
-  {
+  }, {
     first_name: "Pierre Leverne ",
     last_name: "Dease",
     drag_name: "Nina Bo'nina Brown",
@@ -322,8 +317,7 @@ s9.queens.create! ([
     website: "",
     instagram: "https://www.instagram.com/nina_bonina_brown",
     twitter: "https://twitter.com/atlsexyslim"
-  },
-  {
+  }, {
     first_name: "James Andrew",
     last_name: "Leyva",
     drag_name: "Nina Bo'nina Brown",
@@ -332,8 +326,7 @@ s9.queens.create! ([
     website: "",
     instagram: "https://www.instagram.com/allaboutvalentina",
     twitter: "https://twitter.com/allofvalentina"
-  },
-  {
+  }, {
     first_name: "Cameron",
     last_name: "Clayton",
     drag_name: "Farrah Moan",
@@ -342,7 +335,7 @@ s9.queens.create! ([
     website: "https://www.farrahmoan.net",
     instagram: "https://www.instagram.com/farrahrized",
     twitter: "https://twitter.com/farrahrized"
-  },
+  }, {
     first_name: "Jay",
     last_name: "Rivera",
     drag_name: "Aja",
@@ -351,8 +344,7 @@ s9.queens.create! ([
     website: "https://www.ajakween.com",
     instagram: "https://www.instagram.com/ajathekween",
     twitter: "https://twitter.com/ajaqueen"
-  },
-  },
+  }, {
     first_name: "Carlos",
     last_name: "Diaz",
     drag_name: "Cynthia Lee Fontaine",
@@ -361,8 +353,7 @@ s9.queens.create! ([
     website: "",
     instagram: "https://www.instagram.com/cynthialeefontaine",
     twitter: "https://twitter.com/lee_fontaine"
-  },
-  },
+  }, {
     first_name: "David",
     last_name: "Huggard",
     drag_name: "Eureka",
@@ -371,8 +362,7 @@ s9.queens.create! ([
     website: "http://www.eurekatheelephantqueen.com",
     instagram: "https://www.instagram.com/eurekaohara",
     twitter: "https://twitter.com/eurekaohara"
-  },
-  },
+  }, {
     first_name: "Charlie",
     last_name: "Hides",
     drag_name: "Charlie Hides",
@@ -381,8 +371,7 @@ s9.queens.create! ([
     website: "http://www.charliehidestv.com",
     instagram: "https://www.instagram.com/charliehidestv",
     twitter: "https://twitter.com/charliehidestv"
-  },
-  },
+  }, {
     first_name: "Von",
     last_name: "Nguyen",
     drag_name: "Kimora Blac",
@@ -391,8 +380,7 @@ s9.queens.create! ([
     website: "",
     instagram: "https://www.instagram.com/kimorablac",
     twitter: "https://twitter.com/kimorablac"
-  },
-  },
+  }, {
     first_name: "James",
     last_name: "Wirth",
     drag_name: "Jaymes Mansfield",
@@ -402,8 +390,4 @@ s9.queens.create! ([
     instagram: "https://www.instagram.com/jaymesmansfield",
     twitter: "https://twitter.com/jaymesmansfield"
   },
-
-
-
-
-  ])
+])
