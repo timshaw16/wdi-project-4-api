@@ -103,7 +103,7 @@ s7.queens.create!([
     last_name: "Popil",
     drag_name: "Mrs. Kasha Davis",
     bio: "Mrs. Kasha Davis is the stage name of Ed Popil, an American drag performer from Rochester, New York. She was one of the 14 contestants to compete on Season 7 of RuPaul's Drag Race.",
-    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/MrsKashaDavis.png",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/MrsKashaDavisRound.png",
     website: "http://http://www.mrskashadavis.com",
     instagram: "https://www.instagram.com/mrskashadavisRound",
     twitter: "https://twitter.com/KashaDavis"
@@ -166,7 +166,7 @@ s8.queens.create!([
     last_name: "Heppenstall",
     drag_name: "Naomi Smalls",
     bio: "Born Davis Heppenstall in Redlands, California, Naomi has had to travel to LA or Riverside to perform, due to the lack of a drag scene at home. She describes herself as 'bubbly but very chill', and treats everyone as she'd want to be treated. She has an enormous family of 11 brothers and sisters, so she learned early how to cope with teasing and shade-throwing! As a fashion-obsessed teenager who followed Thierry Mugler, Jean Paul Gaultier, and V Magazine, Naomi entered her first drag competition at 340 Nightclub. After several months of attempts she finally won the competition, gaining the confidence that she could go further with her drag",
-    image: "http://www.tjshaw.co.uk/dragrace/queens/season8/NaomiSmalls",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season8/NaomiSmallsRound.png",
     website: "http://www.naomismalls.com",
     instagram: "https://www.instagram.com/naomismalls",
     twitter: "https://twitter.com/naomismallsduh"
@@ -331,7 +331,7 @@ s9.queens.create! ([
     last_name: "Clayton",
     drag_name: "Farrah Moan",
     bio: "22, Las Vegas, NV This queen comes with her own tagline - Farrah Moan: One look and your mind is blown! Inspired by old school Vegas showgirls, it’s no surprise Farrah Moan is all about rhinestones, feathers, and showing a lot of skin. Named after her seventies idol Farrah Fawcett, her gorgeous face has made this queen a hit on social media, where she has a significant following.",
-    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/FarrahMoan.png",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/FarrahMoanRound.png",
     website: "https://www.farrahmoan.net",
     instagram: "https://www.instagram.com/farrahrized",
     twitter: "https://twitter.com/farrahrized"
@@ -358,7 +358,7 @@ s9.queens.create! ([
     last_name: "Huggard",
     drag_name: "Eureka",
     bio: "25, Johnson City, TN Asked to describe her own drag persona, Southern belle Eureka sums it up as “over-the-top, loud... and big!” Despite competing in over 100 pageants, Eureka doesn’t want to be characterized solely as a “pageant girl,” and she’s come ready to show off her many considerable talents. But the pageant system has certainly given her one trait - a fierce competitive nature.",
-    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/EurekaRound.png",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/EurokaOHaraRound.png",
     website: "http://www.eurekatheelephantqueen.com",
     instagram: "https://www.instagram.com/eurekaohara",
     twitter: "https://twitter.com/eurekaohara"
