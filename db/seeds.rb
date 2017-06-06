@@ -5,7 +5,7 @@ s7 = Season.create!(title: "Season 7", description: "The seventh season of RuPau
 
 s8 = Season.create!(title: "Season 8", description: "The eighth season of RuPaul's Drag Race began airing on March 7, 2016. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley, who shared judging responsibilities on an alternating basis. Twelve drag queens competed for the title of America's Next Drag Superstar.", image: "http://www.tjshaw.co.uk/dragrace/seasons/groupsseason8.jpg")
 
-s9 = Season.create!(title: "Season 9", description: "The ninth season of RuPauls Drag Race began airing on March 24, 2017, on VH1. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley. Fourteen drag queens (including one returnee) will compete for the title of America's Next Drag Superstar. The prizes for the winner are a one-year supply of Anastasia Beverly Hills cosmetics and a cash prize of $100,000. The full list of contestants was revealed on February 2, 2017. This season saw the return of season eight contestant Cynthia Lee Fontaine, who finished the competition in 10th place.", image: "http://www.tjshaw.co.uk/dragrace/seasons/groupsseason8.jpg")
+s9 = Season.create!(title: "Season 9", description: "The ninth season of RuPauls Drag Race began airing on March 24, 2017, on VH1. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley. Fourteen drag queens (including one returnee) will compete for the title of America's Next Drag Superstar. The prizes for the winner are a one-year supply of Anastasia Beverly Hills cosmetics and a cash prize of $100,000. The full list of contestants was revealed on February 2, 2017. This season saw the return of season eight contestant Cynthia Lee Fontaine, who finished the competition in 10th place.", image: "http://www.tjshaw.co.uk/dragrace/seasons/groupsseason9.jpg")
 
 s7.queens.create!([
   {
@@ -13,7 +13,7 @@ s7.queens.create!([
     last_name: "Dardo",
     drag_name: "Violet Chachki",
     bio: "Dardo began performing drag as Violet Chachki at the age of 19. The name 'Violet' refers to Jennifer Tilly's character in the film Bound, while 'Chachki' is a variant of the Yiddish word tchotchke. Dardo first performed at the bar LeBuzz in Marietta, Georgia. They used a fake ID to perform in local drag shows, eventually winning Miss New Faces at Friends on Ponce in Atlanta. Later, the drag queen and Drag Race Season 8 contestant Dax ExclamationPoint adopted Dardo as her drag daughter. Dardo was enrolled at SCAD-Atlanta for fashion design, but dropped out to focus on drag.",
-    image: "http://imgur.com/a/x7wui",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/VioletChachkiRound.png",
     website: "http://www.violetchachki.net",
     instagram: "https://www.instagram.com/violetchachki",
     twitter: "https://twitter.com/VioletChachki"
@@ -23,7 +23,7 @@ s7.queens.create!([
     last_name: "Eads-Brown",
     drag_name: "Ginger Minj",
     bio: "Long before she held court as a finalist on season 7 of 'RuPaul’s Drag Race,' Ginger reigned as The Comedy Queen of The South from her homebase in Orlando, Florida. The self-professed “nicest bitch you’ll ever meet” cites classic funny ladies Carol Burnett and Lucille Ball as her idols. “Anyone who can pile three wigs on their head, squeeze their body into a beaded and rhinestoned gown and serve humor alongside the glamour is my hero,” says Ginger. That’s why she coined the term “Glamour Toad” to describe her unique persona.",
-    image: "http://imgur.com/a/x7wui",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/GingerMinjRound.png",
     website: "http://www.http://gingerminj.com",
     instagram: "https://www.instagram.com/gingerminj",
     twitter: "https://twitter.com/TheGingerMinj"
@@ -33,7 +33,7 @@ s7.queens.create!([
     last_name: "James Lent",
     drag_name: "Pearl Liaison",
     bio: "After moving to Chicago, Lent began performing in drag in 2012, alongside Kim Chi, using the stage name Pearl.[3] He has described Pearl's persona as a 'stepford wife robot bitch'. Lent initially only planned to use drag as a hobby, but quickly began booking gigs at increasing frequency. He later moved to Brooklyn, New York.",
-    image: "http://imgur.com/a/x7wui",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/pearljRound.png",
     website: "http://www.pearlliaison.com",
     instagram: "https://www.instagram.com/pearliaison",
     twitter: "https://twitter.com/pearliaison"
@@ -43,7 +43,7 @@ s7.queens.create!([
     last_name: "Asberry Jr.",
     drag_name: "Kennedy Davenport",
     bio: "Kennedy Davenport was Sahara Davenport's drag sister. She is in the drag family of Davenports. She is from Dallas, Texas and attended the BFA Dance program at the North Carolina School of the Arts. Kennedy has won several pageant crowns and is known for being a polished, professional queen, who is well-renowned for her incredible dance numbers and lip synching skills.",
-    image: "http://imgur.com/a/x7wui",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/KennedyDavenportRound.png",
     website: "",
     instagram: "https://www.instagram.com/davenportkennedy",
     twitter: "https://twitter.com/KENNEDYtheDOLL"
@@ -53,7 +53,7 @@ s7.queens.create!([
     last_name: "McCook",
     drag_name: "Katya Zamolodchikova",
     bio: "Yekaterina Petrovna Zamolodchikova, or Katya Zamolodchikova (Екатерина Петровна Замолодчикова), or simply Katya, is the stage name of Brian McCook. She was a contestant on the seventh season and All Stars 2 of RuPaul's Drag Race, where she was simply known as 'Katya'. She finished fifth in her initial run, eliminated on the episode: Episode 11, 'Hello, Kitty Girls!'', but was later voted 'Miss Congeniality' by fans in the reunited special. She returned for All Stars 2, where she and Detox ended up as runners-up to winner Alaska.",
-    image: "http://imgur.com/a/x7wui",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/KatyaRound.png",
     website: "http://www.welovekatya.com",
     instagram: "https://www.instagram.com/katya_zamo",
     twitter: "https://twitter.com/katya_zamo"
@@ -63,7 +63,7 @@ s7.queens.create!([
     last_name: "Firkus",
     drag_name: "Trixie Mattel",
     bio: "Firkus went on to be a break-out star of season 7 despite placing only sixth, and went on to take more television roles, produce a web series with fellow season 7 alumnus and close friend Katya Zamolodchikova called UNHhhh, and perform on stage. Firkus also moved to Los Angeles. Trixie has performed her stand-up comedy show 'Ages 3 And Up' globally and has also gained popularity as a singer, with her folk/country album Two Birds having been released 2nd May 2017.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/TrixieMattelRound.png",
     website: "http://http://www.trixiemattel.com",
     instagram: "https://www.instagram.com/trixiemattel",
     twitter: "https://twitter.com/trixiemattel"
@@ -73,7 +73,7 @@ s7.queens.create!([
     last_name: "Williams",
     drag_name: "Jaidynn Diore Fierce",
     bio: "Jaidynn Diore Fierce is the stage name of Christopher Williams, is a drag performer from Nashville, Tennessee. Ever since she was a kid, she has always loved the name Jaidynn. Diore comes from her love of fashion especially the Dior line and she wanted to take a play on words. And since she was fierce, it became her last name.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/JaidynnDioreFirerceRound.png",
     website: "https://www.youtube.com/user/Jaidynnfierce",
     instagram: "https://www.instagram.com/jaidynnfierce",
     twitter: "https://twitter.com/jaidynnfierce"
@@ -83,7 +83,7 @@ s7.queens.create!([
     last_name: "Malanaphy",
     drag_name: "Max",
     bio: "Max Malanaphy , known simply as 'MAX' during her time on RuPaul's Drag Race, is a drag preformer from Hudson, Wisconsin, best known for being a contestant on Season 7 of RuPaul's Drag Race, coming in at 8th originally but then moved to 9th due to Trixie Mattel re-entering the competition. Max was born in Portsmouth, New Hampshire, and was 22 years old during Season 7.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/MaxRound.png",
     website: "https://www.maxmalanaphy.com",
     instagram: "https://www.instagram.com/maxcollective",
     twitter: "https://twitter.com/maxcollective"
@@ -93,7 +93,7 @@ s7.queens.create!([
     last_name: "Diaz",
     drag_name: "Kandy Ho",
     bio: "Kandy Ho is the stage name of Frank Diaz, a drag performer from Cayey, Puerto Rico. She is a contestant on Season 7 of RuPaul's Drag Race.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/KandyHoRound.png",
     website: "",
     instagram: "https://www.instagram.com/ho_kandy",
     twitter: "https://twitter.com/kandy_ho"
@@ -103,7 +103,7 @@ s7.queens.create!([
     last_name: "Popil",
     drag_name: "Mrs. Kasha Davis",
     bio: "Mrs. Kasha Davis is the stage name of Ed Popil, an American drag performer from Rochester, New York. She was one of the 14 contestants to compete on Season 7 of RuPaul's Drag Race.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/MrsKashaDavis.png",
     website: "http://http://www.mrskashadavis.com",
     instagram: "https://www.instagram.com/mrskashadavis",
     twitter: "https://twitter.com/KashaDavis"
@@ -113,7 +113,7 @@ s7.queens.create!([
     last_name: "Robinson",
     drag_name: "Jasmine Masters",
     bio: "Jasmine Masters is the stage name of Martell Robinson, a drag performer from Los Angeles, California. She was a contestant on Season 7 of RuPaul's Drag Race.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/JasmineMastersRound.png",
     website: "",
     instagram: "https://www.instagram.com/msjasminemasters",
     twitter: "https://twitter.com/jasmasters76"
@@ -123,7 +123,7 @@ s7.queens.create!([
     last_name: "Breakenridge",
     drag_name: "Sasha Belle",
     bio: "Sasha Belle is the stage name of Jared Breakenridge, of Iowa City IA. Her hometown bar is Studio 13, where she is part of the regular show cast, and co show director. Sasha is also the host of Sasha Belle's Drag Race which has had five seasons, and one All-Stars season. Sasha is a former Miss Gay Iowa FFI. She also is known for her YouTube channel and Drunken Makeovers. Sasha is a drag mother to over 10 drag daughters. She was a contestant on Season 7 of RuPaul's Drag Race.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/SashaBelleRound.png",
     website: "",
     instagram: "https://www.instagram.com/sashabelley",
     twitter: "https://twitter.com/sashabelle3"
@@ -133,7 +133,7 @@ s7.queens.create!([
     last_name: "Holt",
     drag_name: "Tempest DuJour",
     bio: "Tempest DuJour is (quite literally) a larger than life drag superstar! An enormously popular entertainer, Tempest can be found hosting her wildy popular Retro Game Show Night, headlining Honeybaked Glam, and hosting a wide variety of events nationally. Tempest can be seen on Season 7 of RuPaul's Drag Race! Tempest resides in Tucson, Arizona where she is a professional costume designer and Professor at the University of Arizona's School of Theatre, Film, and Television. This delicate flower of the desert shares Maison DuJour with her husband, two beautiful children, and a whole lot of poultry.",
-    image: "http://imgur.com/qLjIEMG",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season7/TempestDuJourRound.png",
     website: "https://www.tempestdujour.com",
     instagram: "https://www.instagram.com/tempestdujour",
     twitter: "https://twitter.com/TempestDujour"
