@@ -22,7 +22,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/VioletChachkiRound.png",
     website: "http://www.violetchachki.net",
     instagram: "https://www.instagram.com/violetchachki",
-    twitter: "https://twitter.com/VioletChachki"
+    twitter: "https://www.twitter.com/VioletChachki"
   },
   {
     first_name: "Joshua",
@@ -32,7 +32,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/GingerMinjRound.png",
     website: "http://www.http://gingerminj.com",
     instagram: "https://www.instagram.com/gingerminj",
-    twitter: "https://twitter.com/TheGingerMinj"
+    twitter: "https://www.twitter.com/TheGingerMinj"
   },
   {
     first_name: "Matthew",
@@ -42,7 +42,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/pearljRound.png",
     website: "http://www.pearlliaison.com",
     instagram: "https://www.instagram.com/pearliaison",
-    twitter: "https://twitter.com/pearliaison"
+    twitter: "https://www.twitter.com/pearliaison"
   },
   {
     first_name: "Reuben",
@@ -52,7 +52,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/KennedyDavenportRound.png",
     website: "",
     instagram: "https://www.instagram.com/davenportkennedy",
-    twitter: "https://twitter.com/KENNEDYtheDOLL"
+    twitter: "https://www.twitter.com/KENNEDYtheDOLL"
   },
   {
     first_name: "Brian",
@@ -62,7 +62,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/KatyaRound.png",
     website: "http://www.welovekatya.com",
     instagram: "https://www.instagram.com/katya_zamo",
-    twitter: "https://twitter.com/katya_zamo"
+    twitter: "https://www.twitter.com/katya_zamo"
   },
   {
     first_name: "Brian",
@@ -72,7 +72,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/TrixieMattelRound.png",
     website: "http://http://www.trixiemattel.com",
     instagram: "https://www.instagram.com/trixiemattel",
-    twitter: "https://twitter.com/trixiemattel"
+    twitter: "https://www.twitter.com/trixiemattel"
   },
   {
     first_name: "Christopher",
@@ -82,7 +82,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/JaidynnDioreFirerceRound.png",
     website: "https://www.youtube.com/user/Jaidynnfierce",
     instagram: "https://www.instagram.com/jaidynnfierce",
-    twitter: "https://twitter.com/jaidynnfierce"
+    twitter: "https://www.twitter.com/jaidynnfierce"
   },
   {
     first_name: "Max",
@@ -92,7 +92,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/MaxRound.png",
     website: "https://www.maxmalanaphy.com",
     instagram: "https://www.instagram.com/maxcollective",
-    twitter: "https://twitter.com/maxcollective"
+    twitter: "https://www.twitter.com/maxcollective"
   },
   {
     first_name: "Frank",
@@ -102,7 +102,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/KandyHoRound.png",
     website: "",
     instagram: "https://www.instagram.com/ho_kandy",
-    twitter: "https://twitter.com/kandy_ho"
+    twitter: "https://www.twitter.com/kandy_ho"
   },
   {
     first_name: "Ed",
@@ -111,8 +111,8 @@ s7.queens.create!([
     bio: "Mrs. Kasha Davis is the stage name of Ed Popil, an American drag performer from Rochester, New York. She was one of the 14 contestants to compete on Season 7 of RuPaul's Drag Race.",
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/MrsKashaDavisRound.png",
     website: "http://http://www.mrskashadavis.com",
-    instagram: "https://www.instagram.com/mrskashadavisRound",
-    twitter: "https://twitter.com/KashaDavis"
+    instagram: "https://www.instagram.com/mrskashadavis",
+    twitter: "https://www.twitter.com/KashaDavis"
   },
   {
     first_name: "Martell",
@@ -122,7 +122,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/JasmineMastersRound.png",
     website: "",
     instagram: "https://www.instagram.com/msjasminemasters",
-    twitter: "https://twitter.com/jasmasters76"
+    twitter: "https://www.twitter.com/jasmasters76"
   },
   {
     first_name: "Jared",
@@ -132,7 +132,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/SashaBelleRound.png",
     website: "",
     instagram: "https://www.instagram.com/sashabelley",
-    twitter: "https://twitter.com/sashabelle3"
+    twitter: "https://www.twitter.com/sashabelle3"
   },
   {
     first_name: "Patrick ",
@@ -142,7 +142,7 @@ s7.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season7/TempestDuJourRound.png",
     website: "https://www.tempestdujour.com",
     instagram: "https://www.instagram.com/tempestdujour",
-    twitter: "https://twitter.com/TempestDujour"
+    twitter: "https://www.twitter.com/TempestDujour"
   },
 ])
 
@@ -155,7 +155,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/BobTheDragQueenRound.png",
     website: "https://www.bobthedragqueen.com",
     instagram: "https://www.instagram.com/bobthedragqueen",
-    twitter: "https://twitter.com/thatonequeen"
+    twitter: "https://www.twitter.com/thatonequeen"
   },
   {
     first_name: "Sang-Young ",
@@ -165,7 +165,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/KimChiRound.png",
     website: "http://www.kimchithedragqueen.com",
     instagram: "https://www.instagram.com/kimchi_chic",
-    twitter: "https://twitter.com/KimChi_Chic"
+    twitter: "https://www.twitter.com/KimChi_Chic"
   },
   {
     first_name: "Davis",
@@ -175,7 +175,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/NaomiSmallsRound.png",
     website: "http://www.naomismalls.com",
     instagram: "https://www.instagram.com/naomismalls",
-    twitter: "https://twitter.com/naomismallsduh"
+    twitter: "https://www.twitter.com/naomismallsduh"
   },
   {
     first_name: "Zavion",
@@ -185,7 +185,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/ChiChiDeVayneRound.png",
     website: "https://www.chichidevayne.com",
     instagram: "https://www.instagram.com/chichidevayneofficial",
-    twitter: "https://twitter.com/chichidevayne"
+    twitter: "https://www.twitter.com/chichidevayne"
   },
   {
     first_name: "Derrick",
@@ -195,7 +195,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/DerrickBarryRound.png",
     website: "https://www.derrickbarry.com",
     instagram: "https://www.instagram.com/derrickbarry",
-    twitter: "https://twitter.com/DerrickBarry"
+    twitter: "https://www.twitter.com/DerrickBarry"
   },
   {
     first_name: "Shane",
@@ -205,7 +205,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/ThorgyThorRound.png",
     website: "http://www.thorgy.com",
     instagram: "https://www.instagram.com/thorgythor",
-    twitter: "https://twitter.com/ThorgyThor"
+    twitter: "https://www.twitter.com/ThorgyThor"
   },
   {
     first_name: "Jeremy",
@@ -215,7 +215,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/RobbieTurnerRound.png",
     website: "http://www.thorgy.com",
     instagram: "https://www.instagram.com/therobbieturner",
-    twitter: "https://twitter.com/TheRobbieTurner"
+    twitter: "https://www.twitter.com/TheRobbieTurner"
   }, {
     first_name: "Jamin",
     last_name: "Ruhren",
@@ -224,7 +224,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/AcidBettyRound.png",
     website: "http://www.acidbetty.com",
     instagram: "https://www.instagram.com/acidbetty",
-    twitter: "https://twitter.com/acidbettyrocks"
+    twitter: "https://www.twitter.com/acidbettyrocks"
   }, {
     first_name: "Fabian",
     last_name: "Rodriguez",
@@ -233,7 +233,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/NayshaLopezRound.png",
     website: "",
     instagram: "https://www.instagram.com/nayshalopez",
-    twitter: "https://twitter.com/nayshalopez"
+    twitter: "https://www.twitter.com/nayshalopez"
   }, {
     first_name: "Carlos",
     last_name: "Diaz",
@@ -242,7 +242,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/CynthiaLeeFontaineRound.png",
     website: "",
     instagram: "https://www.instagram.com/cynthialeefontaine",
-    twitter: "https://twitter.com/lee_fontaine"
+    twitter: "https://www.twitter.com/lee_fontaine"
   }, {
     first_name: "Dax",
     last_name: "Martin",
@@ -251,7 +251,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/DaxExclamationPointRound.png",
     website: "",
     instagram: "https://www.instagram.com/daxclamation",
-    twitter: "https://twitter.com/daxclamation"
+    twitter: "https://www.twitter.com/daxclamation"
   }, {
     first_name: "Tyler",
     last_name: "Devlin",
@@ -260,7 +260,7 @@ s8.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season8/LailaMcQueenRound.png",
     website: "http://www.lailamcqueen.bigcartel.com",
     instagram: "https://www.instagram.com/misslailamcqueen",
-    twitter: "https://twitter.com/lailamcqueen"
+    twitter: "https://www.twitter.com/lailamcqueen"
   },
 ])
 
@@ -273,7 +273,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/PeppermintRound.png",
     website: "http://www.peppermintonline.com",
     instagram: "https://www.instagram.com/peppermint247",
-    twitter: "https://twitter.com/peppermint247"
+    twitter: "https://www.twitter.com/peppermint247"
   },
   {
     first_name: "Sasha",
@@ -283,7 +283,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/SashaVelourRound.png",
     website: "http://www.sashavelour.com",
     instagram: "https://www.instagram.com/sashavelour",
-    twitter: "https://twitter.com/sasha_velour"
+    twitter: "https://www.twitter.com/sasha_velour"
   },
   {
     first_name: "Jaren",
@@ -293,7 +293,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/SheaCouleeRound.png",
     website: "https://www.sheacoulee.com",
     instagram: "https://www.instagram.com/sheacoulee",
-    twitter: "https://twitter.com/sheacoulee"
+    twitter: "https://www.twitter.com/sheacoulee"
   },
   {
     first_name: "Ryan",
@@ -303,7 +303,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/TrinityTaylorRound.png",
     website: "https://www.youtube.com/channel/UCr2gApA6rOjLJVU1ESicAyQ",
     instagram: "https://www.instagram.com/trinitythetuck",
-    twitter: "https://twitter.com/trinitythetuck"
+    twitter: "https://www.twitter.com/trinitythetuck"
   },
   {
     first_name: "Alex",
@@ -313,7 +313,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/AlexisMichelleRound.png",
     website: "http://www.subwayfish.com",
     instagram: "https://www.instagram.com/alexislives",
-    twitter: "https://twitter.com/AlexisLives"
+    twitter: "https://wwwwtwitter.com/AlexisLives"
   }, {
     first_name: "Pierre Leverne ",
     last_name: "Dease",
@@ -322,7 +322,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/NinaBo'ninaBrownRound.png",
     website: "",
     instagram: "https://www.instagram.com/nina_bonina_brown",
-    twitter: "https://twitter.com/atlsexyslim"
+    twitter: "https://www.twitter.com/atlsexyslim"
   }, {
     first_name: "James Andrew",
     last_name: "Leyva",
@@ -331,7 +331,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/ValentinaRound.png",
     website: "",
     instagram: "https://www.instagram.com/allaboutvalentina",
-    twitter: "https://twitter.com/allofvalentina"
+    twitter: "https://www.twitter.com/allofvalentina"
   }, {
     first_name: "Cameron",
     last_name: "Clayton",
@@ -340,7 +340,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/FarrahMoanRound.png",
     website: "https://www.farrahmoan.net",
     instagram: "https://www.instagram.com/farrahrized",
-    twitter: "https://twitter.com/farrahrized"
+    twitter: "https://www.twitter.com/farrahrized"
   }, {
     first_name: "Jay",
     last_name: "Rivera",
@@ -349,7 +349,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/AjaRound.png",
     website: "https://www.ajakween.com",
     instagram: "https://www.instagram.com/ajathekween",
-    twitter: "https://twitter.com/ajaqueen"
+    twitter: "https://www.twitter.com/ajaqueen"
   }, {
     first_name: "Carlos",
     last_name: "Diaz",
@@ -358,7 +358,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/CythinaLeeFontaineRound.png",
     website: "",
     instagram: "https://www.instagram.com/cynthialeefontaine",
-    twitter: "https://twitter.com/lee_fontaine"
+    twitter: "https://www.twitter.com/lee_fontaine"
   }, {
     first_name: "David",
     last_name: "Huggard",
@@ -367,7 +367,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/EurokaOHaraRound.png",
     website: "http://www.eurekatheelephantqueen.com",
     instagram: "https://www.instagram.com/eurekaohara",
-    twitter: "https://twitter.com/eurekaohara"
+    twitter: "https://www.twitter.com/eurekaohara"
   }, {
     first_name: "Charlie",
     last_name: "Hides",
@@ -376,7 +376,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/CharlieHideRound.png",
     website: "http://www.charliehidestv.com",
     instagram: "https://www.instagram.com/charliehidestv",
-    twitter: "https://twitter.com/charliehidestv"
+    twitter: "https://www.twitter.com/charliehidestv"
   }, {
     first_name: "Von",
     last_name: "Nguyen",
@@ -385,7 +385,7 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/KimorBlacRound.png",
     website: "",
     instagram: "https://www.instagram.com/kimorablac",
-    twitter: "https://twitter.com/kimorablac"
+    twitter: "https://www.twitter.com/kimorablac"
   }, {
     first_name: "James",
     last_name: "Wirth",
@@ -394,6 +394,6 @@ s9.queens.create! ([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/JaymesMansfieldRound.png",
     website: "https://www.jaymesmansfield.com",
     instagram: "https://www.instagram.com/jaymesmansfield",
-    twitter: "https://twitter.com/jaymesmansfield"
+    twitter: "https://www.twitter.com/jaymesmansfield"
   },
 ])

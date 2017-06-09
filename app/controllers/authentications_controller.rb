@@ -1,4 +1,6 @@
 class AuthenticationsController < ApplicationController
+  skip_before_action :authenticate_user!
+  
   def register
     user = User.new(user_params)
     # If that save works... e.g. doesn't through a validation error

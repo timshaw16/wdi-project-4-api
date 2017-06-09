@@ -4,7 +4,8 @@ Rails.application.routes.draw do
     resources :users, except: [:create]
     resources :seasons
     resources :queens
-    post '/register', to: 'authentications#register'
+      resources :comments
+        post '/register', to: 'authentications#register'
     post '/login', to: 'authentications#login'
   end
 end
