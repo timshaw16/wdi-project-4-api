@@ -397,3 +397,149 @@ s9.queens.create! ([
     twitter: "https://www.twitter.com/jaymesmansfield"
   },
 ])
+
+s5.queens.create!([
+  {
+    first_name: "Kerick",
+    last_name: "Hoffer",
+    drag_name: "Jinks Monsoon",
+    position: "Winner",
+    bio: "After moving to Seattle from Portland, Hoffer and creative partner Nick Sahoyah wrote and starred in multiple Funny or Die webisodes titled Monsoon Season in which they played Jinkx Monsoon as an over-bearing, substance addled, near-psychotic mother to Nick Sahoya's character, Kamikaze Monsoon. In 2011, Monsoon appeared in the Wes Hurley film Waxie Moon in Fallen Jewel. On February 28, 2013, the first screening at Seattle's Central Cinema was hosted by Monsoon and Waxie Moon. In January 2012, Hoffer appeared as Moritz in the rock musical Spring Awakening at the Balagan Theater in Seattle. Controversy arose from The Seattle Times review by Misha Berson, who said that Hoffer was 'overly flamboyant' for the role. Dan Savage defended Hoffer's portrayal of Moritz.[16] From July 21 to August 19, Hoffer starred as Angel in the 5th Avenue Theatre's production of the musical RENT. In January 2013, Hoffer played Hedwig in the Moore Theatre's production of the rock musical Hedwig and the Angry Inch. Balagan reprised the production in December 2013 for a week long run with Hoffer and the original cast/production team.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/JinkxMonsoonRound.png",
+    website: "www.jinkxmonsoon.com",
+    instagram: "https://www.instagram.com/thejinkx",
+    twitter: "https://twitter.com/JinkxMonsoon"
+  },
+  {
+    first_name: "Justin",
+    last_name: "Honard",
+    drag_name: "Alaska Thunderfuck",
+    position: "Runner-up",
+    bio: "A bizarre cosmic collision propelled Alaska Thunderfuck 5000 to Earth in March 1966… and on to the fifth season of Logo TV’s RuPaul’s Drag Race in January 2013. Still radioactive, no one knows who or what she is yet, but no one cares, as long as she never returns to her native planet. Her age and species remain unknown to the public, but a few of her enemies claim to hold copies of her spawning record and universal passport. After her spaceship crashed in the Matanuska Valley, a remote part of south-central Alaska, the U.S. government recovered an emaciated… make that, an emancipated alien, with a 1972 issue of Vanity Fair and a can of Tab, or that’s how the story goes. Why she needed an Elmer’s glue stick, no one has determined. She refuses to acknowledge it was in her possession. Few believe the wreckage was really smoldering, since magazines tend to burn, and cynics wonder if she was actually held captive in a research facility, or entertained by the night watchman until he got bored with her in the 1980s. She’s supposedly on the run from officials, but everyone knows they take off their uniforms and sneak into the clubs where she performs. Some turned into groupies and hang around long after the shows are over. A well-traveled, campy extraterrestrial does have her perks and her irritations. Transients and drifters are directed to the nearest black hole via her pre-screw-you GPS navigation, and drug-addled layabouts are allowed to create their own black holes. She promises to upload each and every one into the system. How dangerous can Thunderfuck be? Watch this rare, magnificent being as she lights up televisions throughout the world on another of RuPaul’s extravaganzas. No, you won’t end up a cancer-stricken lab rat. The screen acts as a radiation shield to protect you from this renegade.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/AlaskaRound.png",
+    website: "http://www.alaskathunderfuck.com",
+    instagram: "https://www.instagram.com/theonlyalaska5000",
+    twitter: "https://twitter.com/Alaska5000"
+  },
+  {
+    first_name: "Michael",
+    last_name: "Feliciano",
+    drag_name: "Roxxxy Andrews",
+    position: "Runner-up",
+    bio: "Feliciano grew up in North Miami Beach, Florida. She revealed on Drag Race that her mother abandoned her and her sister at a bus stop as a child. She was raised by her grandmother, Sonja. Sonja appeared on a special episode of Drag Race All Stars 2 for a makeover challenge. She is of Puerto Rican and Cuban ancestry.[1] Roxxxy is a member of the Haus of Andrews, founded by 1986 Miss Continental winner Tandi Andrews (1964-1995). Roxxxy's drag mother was Erica Andrews (1969-2013), Tandi's daughter. She began her drag career in Orlando at Parliament and Pulse nightclubs and later began competing in the drag pageantry system. She won Miss Continental Plus in 2010. In November 2012, Logo announced that Feliciano was among 14 drag queens who would be competing on the fifth season of RuPaul's Drag Race. As Roxxxy Andrews, Feliciano won the first main challenge of the season in 'RuPaullywood or Bust' and the make-over challenge in 'Super Troopers'",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/RoxxxyAndrewsRound.png",
+    website: "https://www.facebook.com/roxandrews",
+    instagram: "https://www.instagram.com/roxxxyandrews",
+    twitter: "https://twitter.com/roxxxyandrews"
+  },
+  {
+    first_name: "Matthew",
+    last_name: "Sanderson",
+    drag_name: "Detox Icunt",
+    position: "4th",
+    bio: "Detox has appeared in music videos with Ke$ha and Rihanna and is a member of Chad Michaels' Dreamgirls Revue, the longest-running female-impersonation show in California. He is also a member of the band Tranzkuntinental. The band was started by Charlie Paulson and Xander Smith and features drag queens Kelly Mantle, Rhea Litré, Vicky Vox, and Willam Belli. In November 2012, Logo announced that Detox was among 14 drag queens who would be competing on the fifth season of RuPaul's Drag Race. Detox won the children's TV show-themed main challenge in the episode 'Draggle Rock.' As part of the show, Detox sang on the 'We Are the World'-inspired song 'Can I Get an Amen?'' The song's proceeds helped benefit the Los Angeles Gay and Lesbian Center.[16] Detox finished the season in 4th place. In June 2016, Detox was announced as one of the cast members on the second season of RuPaul's All Stars Drag Race,[ where she was a runner up along with Katya Zamolodchikova.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/DetoxRound.png",
+    website: "https://www.facebook.com/TheOnlyDetox",
+    instagram: "https://www.instagram.com/theonlydetox",
+    twitter: "https://twitter.com/TheOnlyDetox"
+  },
+  {
+    first_name: "Martin",
+    last_name: "Cooper",
+    drag_name: "Coco Montrese",
+    position: "5th",
+    bio: "Coco Montrese is the stage name of Martin Cooper, an American drag performer, pageant contestant and Las Vegas entertainer. Cooper is best known as being a contestant on Season 5 and All Stars 2 of RuPaul's Drag Race. Her time on RuPaul's Drag Race often surrounded her feud with Alyssa Edwards that began before the show's run. Coco became known for her strong lip syncing skills which saver her from elimination a number of times. Coco placed in the bottom two a record-breaking four times while on her original season. She was later eliminated in Episode 10, losing out to Detox. Despite this, her strong personality, rivalry with Alyssa, and status as a 'lip sync assassin' led to her earning a spot on All Stars 2.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/CocoMontreseRound.png",
+    website: "",
+    instagram: "https://www.instagram.com/cocomontresediva",
+    twitter: "https://twitter.com/cocomontrese"
+  },
+  {
+    first_name: "Justin",
+    last_name: "Johnson",
+    drag_name: "Alyssa Edwards",
+    position: "6th",
+    bio: "Johnson performs under the stage name Alyssa Edwards. He chose his name in homage to Alyssa Milano and to his drag mother Laken Edwards, a former drag queen. Johnson is part of the drag family 'the Haus of Edwards' and serves as drag mother to fellow RuPaul's Drag Race contestants Shangela Laquifa Wadley, Laganja Estranja, and Gia Gunn. Johnson was one of the judges of the 2010 California Entertainer of the Year pageant, which Shangela won. Ex-participant of RuPaul's Drag Race and RuPaul's Drag Race: All Stars (season 2), Coco Montrese Johnson appeared in the 2008 documentary Pageant. The film focused on the 34th Miss Gay America pageant of 2006 On December 9, 2010, Johnson was stripped of his 2010 Miss Gay America title for having business dealings in conflict with obligations to the Miss Gay America organization. First alternate Coco Montrese replaced Johnson as the winner of Miss Gay America. That same year, Johnson was also stripped of his title as All American Goddess.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/AlyessaEdwardsRound.png",
+    website: "",
+    instagram: "https://www.instagram.com/alyssaedwards_1",
+    twitter: "https://twitter.com/AlyssaEdwards_1"
+  },
+  {
+    first_name: "Dustin",
+    last_name: "Winters",
+    drag_name: "Ivy Winters",
+    position: "7th",
+    bio: "Ivy Winters is the drag name of Dustin Winters, a contestant on the fifth season of RuPaul's Drag Race, and won the title of Miss Congeniality.She is known for personally making all of her stage outfits, and for designing for other celebrity drag queens such as Lady Bunny and Manila Luzon, a runner-up on the show. Ivy once famously came out on her stilts dressed as a butterfly.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/IvyWintersRound.png",
+    website: "https://www.youtube.com/channel/UCTaIGE6Ze1XfWReHQwF12rA",
+    instagram: "https://www.instagram.com/ivy_winters",
+    twitter: "https://twitter.com/ivy_winters"
+  },
+  {
+    first_name: "Josh",
+    last_name: "Green",
+    drag_name: "Jade Jolie",
+    position: "8th",
+    bio: "Jade Jolie is an American reality television personality and drag queen portrayed by Josh Green (born November 2, 1986). She rose to prominence after competing on the fifth season of Logo TV's reality competition television series RuPaul's Drag Race, where she was eliminated on the sixth episode and finished at eighth place out of fourteenth overall.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/JadeJolieRound.png",
+    website: "www.facebook.com/QueenJadeJolie",
+    instagram: "https://www.instagram.com/missjadejolie",
+    twitter: "https://twitter.com/queenjadejolie"
+  },
+  {
+    first_name: "Andy",
+    last_name: "Trinidad",
+    drag_name: "Lineysha Sparx",
+    position: "9th",
+    bio: "Lineysha Sparx was born in New York City but moved to Puerto Rico at age 6 and has called it home for more than 25 years. Her mother is Puerto Rican and her father is Dominican. The drag persona Lineysha Sparx started in October 2008. Some of her titles are Queen of the Night, Miss Acquamares 2009, and Best Drag Designer 2010. Lineysha went to Carlota Alfaro Designing Clothing School, so everything she wears she makes herself.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/LineyshaSparxRound.png",
+    website: "www.facebook.com/LineyshaSparx",
+    instagram: "https://www.instagram.com/lineyshasparx",
+    twitter: "https://twitter.com/lineyshasparx"
+  },
+  {
+    first_name: "Alpha",
+    last_name: "Mulugeta",
+    drag_name: "Honey Mahogany",
+    position: "10th",
+    bio: "Mulugeta was one of the 14 contestants to be chosen for the fifth season of RuPaul's Drag Race, competing against Jinkx Monsoon, Alaska Thunderfuck 5000, Detox Icunt, Alyssa Edwards, and others. Mulugeta was the first contestant on the show to hail from San Francisco, and also had the distinction of being one of the few performers who sang live, as opposed to lip syncing. In the opening episode of the season, RuPaullywood Or Bust, Mulugeta's runway look was an all-gold outfit with a gold mesh headpiece. In week two for the episode Lip Synch Extravaganza Eleganza, Mulugeta placed within the top four. In week three, Mulugeta partnered with Coco Montrese for a puppet performance with which the judges were not impressed. Combining the runway and being judged individually for the puppet performance, Mulugeta ended up being safe that week. In episode four, Black Swan: Why It Gotta Be Black?, Mulugeta took to the runway in a caftan, which the judges were not impressed with. He was placed in the bottom two, lip syncing against Vivienne Pinay to Britney Spears' Oops I Did It Again. After the performance, both Mulugeta and Pinay were eliminated in a double elimination.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/HoneyMahoganyRound.png",
+    website: "http://www.itshoney.com",
+    instagram: "https://www.instagram.com/honeymahogany",
+    twitter: "https://twitter.com/honeymahogany"
+  },
+  {
+    first_name: "Michael",
+    last_name: "Donehoo",
+    drag_name: "Vivienne Pinay",
+    position: "11th",
+    bio: "Vivienne Pinay is the stage name of Michael Donehoo, a drag performer from New York, New York. Donehoo is best know for being a contestant on Season 5 of RuPaul's Drag Race, and is the fourth contestant in series history to be of Filipino decent",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/ViviennePinayRound.png",
+    website: "https://www.viviennepinay.com",
+    instagram: "https://www.instagram.com/viviennepinay",
+    twitter: "https://twitter.com/viviennepinay"
+  },
+  {
+    first_name: "Myron",
+    last_name: "Morgan",
+    drag_name: "Serena ChaCha",
+    position: "13th",
+    bio: "Serena ChaCha is the stage name of Myron Morgan, a drag performer and contestant on the fifth season of RuPaul's Drag Race.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/SerenaChaChaRound.png",
+    website: "",
+    instagram: "https://www.instagram.com/serenachacha",
+    twitter: "https://twitter.com/myron.morgan"
+  },
+  {
+    first_name: "Tony",
+    last_name: "Cody",
+    drag_name: "Penny Tration",
+    position: "14th",
+    bio: "Penny Tration is the stage name of Tony Cody, a drag queen who participated on Season 5 of RuPaul's Drag Race. Penny was the Facebook fan choice, being voted by fans of the show to participate in the season. However, her run on the show was cut short when she landed in the bottom two on the first episode of the season. Penny lost the lip-sync against Serena ChaCha and was sent home.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season5/PennyTrationRound.png",
+    website: "http://www.misspennytration.com",
+    instagram: "https://www.instagram.com/misspennytration",
+    twitter: "https://twitter.com/pennytration"
+  },
+])
