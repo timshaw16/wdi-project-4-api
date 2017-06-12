@@ -1,6 +1,8 @@
 Season.destroy_all
 Queen.destroy_all
 
+User.create!(first_name: "Tim", last_name: "Shaw", user_name: "timshaw", email: "tim@tim.com", password: "password", password_confirmation: "password")
+
 s9 = Season.create!(title: "Season 9", description: "The ninth season of RuPauls Drag Race began airing on March 24, 2017, on VH1. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley. Fourteen drag queens (including one returnee) will compete for the title of America's Next Drag Superstar. The prizes for the winner are a one-year supply of Anastasia Beverly Hills cosmetics and a cash prize of $100,000. The full list of contestants was revealed on February 2, 2017. This season saw the return of season eight contestant Cynthia Lee Fontaine, who finished the competition in 10th place.", image: "http://www.tjshaw.co.uk/dragrace/seasons/groupsseason9.jpg")
 
 s8 = Season.create!(title: "Season 8", description: "The eighth season of RuPaul's Drag Race began airing on March 7, 2016. Returning judges include RuPaul and Michelle Visage, along with Ross Mathews and Carson Kressley, who shared judging responsibilities on an alternating basis. Twelve drag queens competed for the title of America's Next Drag Superstar.", image: "http://www.tjshaw.co.uk/dragrace/seasons/groupsseason8.jpg")
