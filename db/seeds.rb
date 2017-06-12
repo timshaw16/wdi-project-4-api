@@ -321,7 +321,7 @@ s9.queens.create! ([
     last_name: "Dease",
     drag_name: "Nina Bo'Nina Brown",
     bio: "34, Riverdale, GA Nina’s drag style is pure fantasy, completely unique, and difficult to pin down - one day she'll transform herself into a zombie, the next an alien. But Nina also loves to be sexy, and feature body-ody-ody - no couch is safe around her when it's time for her to pad. With such a strong aesthetic and sense of self, Nina’s sure to ruffle some feathers in the competition.",
-    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/NinaBoninaBrownRound.png",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season9/NinaRound.png",
     website: "",
     instagram: "https://www.instagram.com/nina_bonina_brown",
     twitter: "https://www.twitter.com/atlsexyslim"
@@ -703,5 +703,4 @@ s6.queens.create!([
     instagram: "https://www.instagram.com/kellymantle",
     twitter: "https://www.twitter.com/thekellymantle"
   },
-
   ])
