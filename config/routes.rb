@@ -5,7 +5,7 @@ Rails.application.routes.draw do
     resources :seasons
     resources :queens
       resources :comments
-        post '/register', to: 'authentications#register'
-    post '/login', to: 'authentications#login'
+        post 'register', to: 'authentications#register'
+    post 'login', to: 'authentications#login'
   end
 end
