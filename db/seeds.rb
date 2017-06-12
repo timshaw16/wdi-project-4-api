@@ -319,7 +319,7 @@ s9.queens.create! ([
   }, {
     first_name: "Pierre Leverne ",
     last_name: "Dease",
-    drag_name: "Nina Bo'nina Brown",
+    drag_name: "Nina Bo'Nina Brown",
     bio: "34, Riverdale, GA Nina’s drag style is pure fantasy, completely unique, and difficult to pin down - one day she'll transform herself into a zombie, the next an alien. But Nina also loves to be sexy, and feature body-ody-ody - no couch is safe around her when it's time for her to pad. With such a strong aesthetic and sense of self, Nina’s sure to ruffle some feathers in the competition.",
     image: "http://www.tjshaw.co.uk/dragrace/queens/season9/NinaBo'ninaBrownRound.png",
     website: "",
@@ -542,6 +542,166 @@ s5.queens.create!([
     image: "http://www.tjshaw.co.uk/dragrace/queens/season5/PennyTrationRound.png",
     website: "http://www.misspennytration.com",
     instagram: "https://www.instagram.com/misspennytration",
-    twitter: "https://twitter.com/pennytration"
+    twitter: "https://www.twitter.com/pennytration"
   },
 ])
+
+
+s6.queens.create!([
+
+  {
+    first_name: "Roy",
+    last_name: "Haylock",
+    drag_name: "Bianca Del Rio",
+    position: "Winner",
+    bio: "Haylock moved to New York City after Hurricane Katrina. In addition to performing in drag, Haylock builds costumes for Broadway shows, ballet and opera having worked for Barbara Matera, Ltd. Del Rio performs weekly in various NYC nightclubs including in cabaret with Lady Bunny at XL Nightclub. Notable events include a roast of Patricia Krentcil, better known as 'Tan Mom.' Haylock starred in the first regional production of Rent (following its initial Broadway closing) at Le Petit Theatre in New Orleans, playing the role of 'Angel' opposite Christopher Bentivegna as Collins. Del Rio was featured in the web series Queens of Drag: NYC by gay.com in 2010. The series featured fellow New York drag queens Dallas DuBois, Hedda Lettuce, Lady Bunny, Mimi Imfurst, Peppermint, and Sherry Vine.[11] In 2011, Del Rio appeared on One Night Stand Up: Dragtastic! NYC by Logo TV. The episode was filmed live at the Bowery Ballroom and was hosted by Pandora Boxx. He appeared on the cover of Next for their Summer Yearbook 2012 issue. Del Rio appeared on the variety show She's Living for This, hosted by Sherry Vine, in 2012. In 2013, Del Rio was announced starring in the film Hurricane Bianca. An Indiegogo campaign was made for the film and was sponsored by Fractured Atlas, a non-profit art services organization in New York City. The film is directed by Matt Kugelman, who works as an editor on CBS This Morning.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/BiancaDelRioRound.png",
+    website: "http://www.thebiancadelrio.com",
+    instagram: "https://www.instagram.com/thebiancadelrio",
+    twitter: "https://www.twitter.com/TheBiancaDelRio"
+  },
+  {
+    first_name: "Danny",
+    last_name: "Noriega",
+    drag_name: "Adore Delano",
+    position: "Runner Up",
+    bio: "Daniel Anthony 'Danny' Noriega, better known by his stage name Adore Delano, is an American drag queen, singer-songwriter, YouTuber, and actor. Delano first appeared as a contestant on the seventh season of American Idol in 2008 as Danny Noriega; Adore Delano competed in the sixth season of RuPaul's Drag Race making it into the final three and she released her debut studio album Till Death Do Us Party in 2014. Adore released her second studio album After Party in 2016.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/AdoreDelanoRound.png",
+    website: "http://www.adoredelano.com",
+    instagram: "https://www.instagram.com/adoredelano",
+    twitter: "https://www.twitter.com/AdoreDelano"
+  },
+  {
+    first_name: "Shane",
+    last_name: "Jenek",
+    drag_name: "Courtney Act",
+    position: "Runner Up",
+    bio: "Courtney Act, is an Australian drag queen, pop singer, entertainer and reality television personality. As Courtney Act, Jenek was a semi-finalist on Australian Idol in 2003 and was the third singer of the competition to release an official solo single, following Guy Sebastian and Shannon Noll. The single, 'Rub Me Wrong', was released in 2004, which peaked at #29 on the ARIA Singles Chart. Act was one of the runner ups in season six of RuPaul's Drag Race.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/CourtneyActRound.png",
+    website: "http://www.courtneyact.com",
+    instagram: "https://www.instagram.com/courtneyact",
+    twitter: "https://www.twitter.com/courtneyact"
+  },
+  {
+    first_name: "Greg",
+    last_name: "Meyer",
+    drag_name: "Darienne Lake",
+    position: "4th",
+    bio: "Darienne Lake, also known as Miss Darienne Lake is the stage name of Greg Meyer, an American drag performer from Rochester, New York, aged 45 years old. Meyer is best known for being a contestant on Season 6 of RuPaul's Drag Race, and being the Drag Mother to Season 2 contestant Pandora Boxx",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/DarienneLakeRound.png",
+    website: "http://www.dariennelake.com",
+    instagram: "https://www.instagram.com/dariennelake",
+    twitter: "https://www.twitter.com/dariennelake"
+  },
+  {
+    first_name: "Benjamin",
+    last_name: "Putman",
+    drag_name: "BenDeLaCreme",
+    position: "5th",
+    bio: "BenDeLaCreme credits his interest in drag and burlesque to seeing Varla Jean Merman's Holiday Ham in Boston in 2001. He was inspired by Merman's theatrical, character-driven approach to drag performance. His own career began in Chicago in 2002, while he was pursuing a BFA degree at the Art Institute of Chicago. Although his course of study focused on painting, he found himself more interested in performance art. DeLa's first opportunities to perform came at drag revues at Chicago-area gay bars. Early on, he was exposed to a more explicitly feminist, message-driven side of drag culture by the Chicago Kings, a drag king troupe with which he frequently performed as the token 'queen'. At the same time, DeLa made a conscious decision to present a more positive, cheerful persona during his shows, even when addressing serious subject matter such as prejudice, death, and depression. DeLa considers drag to be 'an inherently political act', an opportunity to encourage people to thinking about complex issues related to gender and sexuality through humor and theatre",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/BenDeLaCremeRound.png",
+    website: "http://www.bendelacreme.com",
+    instagram: "https://www.instagram.com/bendelacreme",
+    twitter: "https://www.twitter.com/bendelacreme"
+  },
+  {
+    first_name: "Joshua",
+    last_name: "Jones",
+    drag_name: "Trinity K. Bonet",
+    position: "7th",
+    bio: "During the show, Trinity was known for being moody, closed off, and short with other contestants during the show. Whenever she struggled with the main challenges, she often would comment that the challenges were outside her comfort zone and skill set. She also had some tension with fellow contestant Bianca Del Rio, who liked to criticise her, along with other contestants. Trinity revealed in an episode of 'Untucked' that she is HIV positive, which was received with much support from fellow contestants. Bianca commended her for being brave enough to share her status, and explained that her moody introvert behaviour may have been a result of her keeping her status as a secret.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/TrinityKBonetRound.png",
+    website: "htpp://www.facebook.com/TrinityKBonet",
+    instagram: "https://www.instagram.com/trinitykbonet",
+    twitter: "https://www.twitter.com/trinitykbonet"
+  },
+  {
+    first_name: "Jay",
+    last_name: "Jackson",
+    drag_name: "Laganja Estranja",
+    position: "8th",
+    bio: "Laganja Estranja's drag debut was at Micky's West Hollywood on November 7, 2011. After winning the Amateur Competition, Laganja became an official 'Showgirl' with a monthly guaranteed gig at Micky's West Hollywood. Laganja went on to win 'Queen of Queens' at 340 nightclub in Pomona, California and 'Best Newcomer' from Rhea Litré. In April 2013, one year since walking on the stage as Laganja Estranja for the first time, Jay and his team decided to audition Laganja Estranja for RuPaul's Drag Race. He was accepted onto the show, and filmed in the summer of 2013.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/LaganjaEstranjaRound.png",
+    website: "http://www.laganjaestranja.com",
+    instagram: "https://www.instagram.com/laganjaestranja",
+    twitter: "https://www.twitter.com/LaganjaEstranja"
+  },
+  {
+    first_name: "Dan",
+    last_name: "Donigan",
+    drag_name: "Milk",
+    position: "9th",
+    bio: "Laganja Estranja's drag debut was at Micky's West Hollywood on November 7, 2011. After winning the Amateur Competition, Laganja became an official 'Showgirl' with a monthly guaranteed gig at Micky's West Hollywood. Laganja went on to win 'Queen of Queens' at 340 nightclub in Pomona, California and 'Best Newcomer' from Rhea Litré. In April 2013, one year since walking on the stage as Laganja Estranja for the first time, Jay and his team decided to audition Laganja Estranja for RuPaul's Drag Race. He was accepted onto the show, and filmed in the summer of 2013.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/MilkRound.png",
+    website: "http://www.bigandmilky.com",
+    instagram: "https://www.instagram.com/bigandmilky",
+    twitter: "https://www.twitter.com/bigandmilky"
+  },
+  {
+    first_name: "Dan",
+    last_name: "Donigan",
+    drag_name: "Gia Gunn",
+    position: "10th",
+    bio: "Gia Ichikawa was born on May 10, 1990 in the United States as a fourth generation of Japanese-American. She grew up in a small diverse town in the Northwest Suburbs of Chicago in Carpentersville, Illinois, United States. At the age of five years old, Ichikawa had made her stage debut. After completing her high school education, she enrolled in a cosmetology school, where Ichikawa had received her cosmetology license. Soon after moving to Chicago, United States, she had observed numerous drag shows. Possibly being influenced by the observation of the numerous drag shows, Ichikawa had decided to perform herself and became a headlining drag performer. She auditioned for Logo TV's reality television series RuPaul's Drag Race whilst Ichikawa was working in the hair industry full-time and performed as Gia Gunn by evening. She is currently working for Mega's second season of The Switch Drag Race, the Chilean version of RuPaul's Drag Race.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/GiaGunnRound.png",
+    website: "https://www.youtube.com/channel/UCeNK93UFhDcuc6wcgGFIqdg",
+    instagram: "https://www.instagram.com/gia_gunn",
+    twitter: "https://www.twitter.com/GiaGunn"
+  },
+  {
+    first_name: "Gia",
+    last_name: "Ichikawa",
+    drag_name: "Gia Gunn",
+    position: "10th",
+    bio: "Gia Ichikawa was born on May 10, 1990 in the United States as a fourth generation of Japanese-American. She grew up in a small diverse town in the Northwest Suburbs of Chicago in Carpentersville, Illinois, United States. At the age of five years old, Ichikawa had made her stage debut. After completing her high school education, she enrolled in a cosmetology school, where Ichikawa had received her cosmetology license. Soon after moving to Chicago, United States, she had observed numerous drag shows. Possibly being influenced by the observation of the numerous drag shows, Ichikawa had decided to perform herself and became a headlining drag performer. She auditioned for Logo TV's reality television series RuPaul's Drag Race whilst Ichikawa was working in the hair industry full-time and performed as Gia Gunn by evening. She is currently working for Mega's second season of The Switch Drag Race, the Chilean version of RuPaul's Drag Race.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/GiaGunnRound.png",
+    website: "https://www.youtube.com/channel/UCeNK93UFhDcuc6wcgGFIqdg",
+    instagram: "https://www.instagram.com/gia_gunn",
+    twitter: "https://www.twitter.com/GiaGunn"
+  },
+  {
+    first_name: "Jason",
+    last_name: "Carrion",
+    drag_name: "April Carrion",
+    position: "11th",
+    bio: "April Carrión was a contestant on Season 6 of RuPaul's Drag Race. She was eliminated in episode 4. Outside of drag race, nestled in the peak of a mountain in lovely, sunny Puerto Rico stood a house. Inside, a couple known as “Los Carrión” awaited their newest bundle of joy, he would turn out to be the cheekiest addition to their beautiful family. And future Rupaul's Drag Race Season Six Contestant. As the years passed, this toddler had a very energetic upbringing. He, along his two older brothers, ran amok. Jason could spend countless hours daydreaming of Taíno Princesses and lustrous colors shaded in the tropical rainforest of his backyard. These early years where filled to the brim with lessons in the arts, ballet, jazz, theatre. In short, an education that turned out to be the groundwork for his grand project.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/AprilCarrionRound.png",
+    website: "http://www.aprilcarrion.com",
+    instagram: "https://www.instagram.com/aprilcarrion",
+    twitter: "https://www.twitter.com/aprilcarrion"
+  },
+  {
+    first_name: "Osmond",
+    last_name: "Vacious",
+    drag_name: "Vivacious",
+    position: "12th",
+    bio: "Vivacious is the stage name of Osmond Vacious, a drag performer best known for being a contestant on Season 6 of RuPaul's Drag Race. Vivacious ranked 12th place in Season 6. She describes her look as Leigh Bowery realness/club kid fashion. Vivacious is known for facing struggles throughout life and her Drag Race journey, such as ZI (zipper intolerance). One of the original 90s New York City club kids, she considers her drag to be 'living art.' Well known in the New York City straight club scene, she considers herself an 'ambassador of drag'. She is known for her memorable quote, 'Mother has arrived!' and her headpiece, 'Ornacia'.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/VivaciousRound.png",
+    website: "http://www.vivaciousnyc.com",
+    instagram: "https://www.instagram.com/vivaciousnyc",
+    twitter: "https://www.twitter.com/vivaciousnyc"
+  },
+  {
+    first_name: "Reynolds",
+    last_name: "Engelhart",
+    drag_name: "Magnolia Crawford",
+    position: "13th",
+    bio: "Magnolia Crawford was the stage name of Reynolds Engelhart, an American drag performer, flight attendant, and YouTube personality. Magnolia is best known for being a contestant on Season 6 of RuPaul's Drag Race, and just like Ivy Winters, has a signature name-yodel. She has arguably gone down as one of the least understood queens in Drag Race herstory, but is one who developed a solid cult following. Engelhart no longer performs as Magnolia Crawford, and has retired from drag.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/MagnoliaCrawfordRound.png",
+    website: "",
+    instagram: "https://www.instagram.com/magnoliaisme",
+    twitter: "https://www.twitter.com/magnoliaisme"
+  },
+  {
+    first_name: "Kelly",
+    last_name: "Mantle",
+    drag_name: "Kelly Mantle",
+    position: "14th",
+    bio: "Kelly Mantle (born July 9, 1976) is an American actor, singer/songwriter, comedian, musician, drag queen and reality television personality. Mantle appeared as a contestant on the sixth season of the reality TV show RuPaul's Drag Race.",
+    image: "http://www.tjshaw.co.uk/dragrace/queens/season6/KellyMantleRound.png",
+    website: "",
+    instagram: "https://www.instagram.com/kellymantle",
+    twitter: "https://www.twitter.com/thekellymantle"
+  },
+
+  ])
